@@ -39,10 +39,7 @@ https://dummyjson.com/docs/products
 
 - Crie um repositório público com seu código em qualquer repositório git (github, gitlab,bitbucket)
 - Se houver algo a detalhar utilize o README do repositório
-- Acesse: https://coodesh.com/challenges/review;
-- Adicione o repositório com a sua solução;
-- Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Foque em pontos obrigatórios e diferenciais quando for apresentar.
-- Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
+- Envie o link do repositório para rh@centelho.com
 
 
 ⚠️ ⚠️ Commits posteriores a data limite de entrega serão desconsiderados ⚠️ ⚠️ 
