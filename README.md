@@ -39,7 +39,7 @@ https://dummyjson.com/docs/products
 
 - Crie um repositório público com seu código em qualquer repositório git (github, gitlab,bitbucket)
 - Se houver algo a detalhar utilize o README do repositório
-- Envie o link do repositório para rh@centelho.com
+- Envie o link do repositório para rh@centelho.com com o Assunto: Solução Teste técnico
 
 
 ⚠️ ⚠️ Commits posteriores a data limite de entrega serão desconsiderados ⚠️ ⚠️ 
